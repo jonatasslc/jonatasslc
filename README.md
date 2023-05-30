@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 📚 Atualmente cursando Técnico em Informática para Internet, no Senac Campinas <br>
 💻 Desenvolvendo habilidades em HTML5, Javascrip e CSS3 <br>
-🌐 Programas utilizados para trabalho: Figma e VSCode
+🌐 Programas utilizados: Figma e VSCode
