@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-📚 Cursando Técnico em Informática para Internet, no Senac Campinas <br>
+🧐 Cursando Técnico em Informática para Internet, no Senac Campinas <br>
 💻 Desenvolvendo habilidades em HTML5, Javascript e CSS3 <br>
 🌐 Programas utilizados: Figma e VSCode
