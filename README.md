@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🧐 Cursando Técnico em Informática para Internet, no Senac Campinas <br>
-💻 Desenvolvendo habilidades em HTML5, Javascript e CSS3 <br>
+💻 Desenvolvendo habilidades em HTML5, CSS3 e Javascript <br>
 🌐 Programas utilizados: Figma e VSCode
